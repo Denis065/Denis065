@@ -18,7 +18,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://www.google.com/search?q=postgresql&sxsrf=AOaemvI5PV_9zXqN6aMQyYodF_W5KsMJxg:1643041506301&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiE3tXK5sr1AhWGn4sKHSPwB60Q_AUoAXoECAIQAw&biw=1440&bih=789&dpr=2#imgrc=YbysCL8E2-uoWM" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" />][webdevplaylist]
 
 <br />
                                                       
