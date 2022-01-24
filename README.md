@@ -1,10 +1,15 @@
                                                       ###   Hello and Welcome 👋
-                                                         🔧 Technology stack:                                                     
+                                                      
+                                                          ✨ Bio:                                                     
 👨🏻‍💻 FullStack JS Developer
 
-👾 Currently working on PERN Stack
+🚀 Interested in WebDev and travel and food
 
-🚀 Interested in WebDev and travel
+✉️ Contact: t.me/Denis_boku
 
-✉️ Contact: t.me/Heerbie
-
+                                                      🔧 Technology stack:
+                                                      
+Frontend: JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap
+Backend: NodeJS, Express, Sessions, Bcrypt, Handlebars
+DB: PostgreSQL, Sequelize ORM
+Other: Git, GitHub, VS Code                                              
