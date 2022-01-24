@@ -1,4 +1,4 @@
-                                                        <h1>Hello and Welcome 👋</h1>
+                                                        Hello and Welcome 👋
                                                       
                                                           ✨ Bio:                                                     
 👨🏻‍💻 FullStack JS Developer
