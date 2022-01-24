@@ -5,7 +5,7 @@
 
 🚀 Interested in WebDev and travel and food
 
-✉️ Contact: t.me/Denis_boku
+✉️ Contact: <a>t.me/Denis_boku</a>
 
                                                       🔧 Technology stack:
                                                       
