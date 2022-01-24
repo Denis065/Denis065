@@ -1,10 +1,11 @@
-                                                                 ###   Hello and Welcome 👋
-
-<!--
+                                                      ###   Hello and Welcome 👋
 👨🏻‍💻 FullStack JS Developer
 👾 Currently working on PERN Stack
 🚀 Interested in WebDev and travel
 ✉️ Contact: t.me/Heerbie
+
+<!--
+
 **Denis065/Denis065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
