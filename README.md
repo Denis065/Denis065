@@ -1,5 +1,3 @@
-### Hello and Welcome 👋
-<br>
 <h2 align=center>Hello and Welcome 👋</h2>
 <br>
 <h2 align=center>Bio 😃</h2>
@@ -22,11 +20,11 @@
   <a href='#'><img src='/img/icons8-git-48.png'></img></a>
 </div>
 <br>
-<span>**Frontend:** JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
-<span>**Backend:** NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
-<span>**DB:** PostgreSQL, Sequelize ORM</span></br>
-<span>**Testing:** Jest</span></br>
-<span>**Other:** Git, GitHub, VS Code</span></br>
+<span>Frontend: JavaScript, React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span></br>
+<span>Backend: NodeJS, Express, Sessions, Bcrypt, Handlebars</span></br>
+<span>DB: PostgreSQL, Sequelize ORM</span></br>
+<span>Testing: Jest</span></br>
+<span>Other: Git, GitHub, VS Code</span></br>
 <h2 align=center>Contacts 📞</h2>
 <br>
 <div>
